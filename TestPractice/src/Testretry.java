@@ -21,6 +21,11 @@ public class Testretry {
 		Assert.assertEquals(true, true);
 	}
 	
+	@Test
+	public void Test4()
+	{
+		Assert.assertEquals(true, true);
+	}
 	
 }
 
